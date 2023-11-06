@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "768793318176",
+    "firebase_url": "https://baatcheet-a5724-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baatcheet-a5724",
+    "storage_bucket": "baatcheet-a5724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768793318176:android:dabf27fa5647254fbc3d45",
+        "android_client_info": {
+          "package_name": "arush.baatcheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq8aLfOSTyk6lStkFf81s8ppnrRAu6Jr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

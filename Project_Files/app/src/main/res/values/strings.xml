@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">baatcheet</string>
+    <string name="title_activity_add_contact">AddContactActivity</string>
+    <string name="title_activity_saved_messages">SavedMessagesActivity</string>
+    <string name="Baatcheet_title">Baatचीत</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>

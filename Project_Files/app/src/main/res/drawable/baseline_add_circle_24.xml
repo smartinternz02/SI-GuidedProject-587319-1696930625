@@ -1,0 +1,25 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Circular background -->
+    <item android:drawable="@drawable/circle"
+        android:gravity="center"/>
+
+    <!-- Horizontal line of the plus sign -->
+    <item android:drawable="@drawable/plus_sign"
+        android:gravity="center">
+        <rotate
+            android:fromDegrees="45"
+            android:toDegrees="45"
+            android:pivotX="50%"
+            android:pivotY="50%" />
+    </item>
+
+    <!-- Vertical line of the plus sign -->
+    <item android:drawable="@drawable/plus_sign"
+        android:gravity="center">
+        <rotate
+            android:fromDegrees="45"
+            android:toDegrees="45"
+            android:pivotX="50%"
+            android:pivotY="50%" />
+    </item>
+</layer-list>
